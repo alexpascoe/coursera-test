@@ -106,18 +106,15 @@ body {
 	}
 }
 
+/********** Styles **********/
+
 h1 {
 	margin-bottom: 15px;
 	text-align: center;
 }
 
-.section {
-	background-color: gray;
-	border: 2px solid black;
-	margin: 15px;
-}
-
 h2 {
+	
 	float: right;
 	border: 1px solid black;
 	margin-top: 0px;
@@ -127,6 +124,14 @@ h2 {
 p {
 	clear: both;
 	padding: 0px 10px;
+}
+
+/********** Classes & IDs **********/
+
+.section {
+	background-color: lightgray;
+	border: 2px solid black;
+	margin: 10px;
 }
 
 #chicken {
