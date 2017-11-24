@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
 				"nav",
 				"navbar"
 			],
@@ -14,10 +22,6 @@
 			[
 				"he",
 				"header\tTag"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"align",
@@ -56,10 +60,6 @@
 				"black"
 			],
 			[
-				"text",
-				"text-align"
-			],
-			[
 				"h",
 				"h1\tTag"
 			]
@@ -71,7 +71,17 @@
 			"file": "restaurant-website/index.html",
 			"settings":
 			{
-				"buffer_size": 1028,
+				"buffer_size": 1431,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "restaurant-website/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 480,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -108,10 +118,10 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/AlexPascoe/coursera-test/restaurant-website"
 	],
 	"file_history":
 	[
+		"/Users/AlexPascoe/Desktop/restaurant-logo_large.png",
 		"/Users/AlexPascoe/coursera-test/restaurant-website/untitled",
 		"/Users/AlexPascoe/Desktop/Restaurant/index.html",
 		"/Users/AlexPascoe/coursera-test/restaurant-website/index.html",
@@ -173,24 +183,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "restaurant-website/index.html",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1028,
+						"buffer_size": 1431,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								579,
+								579
 							]
 						],
 						"settings":
@@ -198,6 +208,34 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "restaurant-website/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
