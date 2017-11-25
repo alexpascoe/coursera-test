@@ -8,6 +8,10 @@ body {
   margin: 0px;
 }
 
+.container {
+  margin-left: 0px;
+}
+
 /** HEADER **/
 #header-nav {
   background-color: #ffb3ba;
@@ -83,16 +87,6 @@ p {
 .row {
 	width: 100%;
 	margin: 0px;
-}
-
-/********** Medium devices only **********/
-@media (min-width: 992px) {
- 
-}
-
-/********** Small devices only **********/
-@media (min-width: 768px) and (max-width: 991px) {
-
 }
 
 /********** Extra small devices only **********/
