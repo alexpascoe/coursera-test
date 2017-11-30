@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-left"
+			],
+			[
 				"border",
 				"border-radius"
 			],
@@ -18,10 +22,6 @@
 			[
 				"cont",
 				"container"
-			],
-			[
-				"margin",
-				"margin"
 			],
 			[
 				"te",
@@ -115,7 +115,16 @@
 			"file": "module3-solution/index.html",
 			"settings":
 			{
-				"buffer_size": 8784,
+				"buffer_size": 8787,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "module3-solution/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1664,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -153,7 +162,8 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/AlexPascoe/coursera-test/module3-solution"
+		"/Users/AlexPascoe/coursera-test/module3-solution",
+		"/Users/AlexPascoe/coursera-test/module3-solution/css"
 	],
 	"file_history":
 	[
@@ -228,15 +238,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8784,
+						"buffer_size": 8787,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								585,
+								585
 							]
 						],
 						"settings":
@@ -246,10 +256,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1228.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "module3-solution/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
